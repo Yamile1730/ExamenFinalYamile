@@ -1,0 +1,14 @@
+1, arroz, granos, 8000.0, 25
+2, frijol, granos, 1500.0, 13
+3, lentejas, granos, 900.0, 15
+4, pechuga, frios, 4500.0, 8
+5, costilla, frios, 5900.0, 8
+6, salmon, frios, 7000.0, 6
+7, tomate, verduras, 300.0, 25
+8, cebolla, verduras, 400.0, 32
+9, platano, verduras, 800.0, 13
+10, bombombum, confites, 100.0, 45
+11, chitos, confites, 1500.0, 16
+12, jabon, higiene, 3000.0, 6
+13, shampo, higiene, 85000.0, 3
+Valor total del inventario: 690400.0
